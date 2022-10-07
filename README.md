@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Artem Shishkin
-- 🌱 I’m currently a student at [School 21](https://21-school.ru/) (Russian branch of [School 42](https://en.wikipedia.org/wiki/42_(school)))
+- 💻 Back-end [Go](https://github.com/golang/go)
 - 📫 How to reach me
   - [telegram](http://t.me/artacone)
   - [email](mailto:artacone@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
