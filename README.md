@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Artem Shishkin
-- 💻 Back-end [Go](https://github.com/golang/go)
+- 💻 Senior Software Engineer / Backend [Go](https://github.com/golang/go)
 - 📫 How to reach me
   - [telegram](http://t.me/artacone)
   - [email](mailto:artacone@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
